@@ -13,7 +13,7 @@ The primary objective of this network task is to analyze network traffic using W
     - Extract key details like total packets, specific protocols, and the most frequent source and destination IP addresses.
 4. **Report Generation**:
     - Generate a brief report showing the extracted data, presenting a clear overview of the network traffic.
-## Prerequisites 🤓
+## Prerequisites ℹ️
 1. **Wireshark Installation**
    - Install using package manager (e.g., `apt-get install wireshark`) or download from official website (https://www.wireshark.org/download.html). 
 2. **Capture Permissions**
